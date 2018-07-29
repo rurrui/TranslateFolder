@@ -1,2 +1,2 @@
-Working with Markdown files in Visual Studio Code is simple, straightforward, and fun. Besides VS Code's basic editing, there are a number of Markdown specific features that will help you be more productive.
+Working with Markdown files in Visual Studio Code is simple, straightforward, and fun. Besides VS Code's basic editing, there are a number of Markdown specific features that will help you be more productive.  
 在VS Code中使用Markdown文件工作是简单的，有趣的。除了VS Code基本的编辑器以外，还有一些特定的Mardown功能可以帮助你更有效率
